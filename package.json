@@ -1,0 +1,4 @@
+"dependencies": {
+    "whatsapp-web.js": "^1.16.0",
+    "qrcode-terminal": "^0.12.0"
+}
